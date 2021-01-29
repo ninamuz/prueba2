@@ -1,0 +1,30 @@
+.container {
+    background-color: lightseagreen;
+    margin: 0 auto;
+    width: 80%;
+    max-width: 1200px;
+    color: whitesmoke;
+}
+.rescatados img {
+    width: 1000px;
+    border: whitesmoke 4px solid;
+}
+
+.ficha {
+    text-align: center;
+    width: auto;
+}
+
+h1 {
+    font-size: 24px;
+    font-weight: bolder;
+}
+
+.btn {
+    background-color: rgb(18, 161, 172);
+    border: none;
+    color: white;
+    padding: 12px 16px;
+    font-size: 16px;
+    margin: 6px;
+   }
